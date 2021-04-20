@@ -15,4 +15,4 @@
  | CIFAR-100     | ResNet-34+5th bit pane    |       76.35     | 
  | CIFAR-100     | ResNet-34+4th bit pane   |    76.42   | 
 
-The branches corresponding to the 7th and 6th bit planes generate the largest contributions
+The branches corresponding to the 7th and 6th bit planes generate the largest contributions.
